@@ -1,0 +1,192 @@
+
+
+
+#menu{
+display: flex;
+justify-content: space-evenly;
+font-size: 200%;
+
+}
+#img1{
+    display: flex;
+   justify-content:  center;
+   margin-top: 5%;
+}
+
+#img1 img{
+    width: 85%;
+}
+
+
+#Home{
+    display: flex;
+    
+    justify-content: center;
+    align-items: center;
+    
+    font-size: 200%;
+}
+
+
+#Sobre{
+
+
+    width: 50%;
+
+    padding-left: 10%;
+    padding-right: 5%;
+    
+}
+
+
+#Quemsomos {
+width: 50%;
+padding-right: 5%;
+
+    padding-right: 10%;
+}
+
+/*Gelato*/
+
+
+#img2{
+
+    display: flex;
+   justify-content:  center;
+   margin-top: 3%;
+   gap: 15%;
+   flex-wrap: wrap;
+   text-align: center;
+   
+}
+
+
+#titulo1{
+    display: flex;
+    justify-content:  center;
+    margin-top: 5%; 
+    font-size: 300%;
+}
+
+#categorias{
+    display: flex;
+justify-content: space-evenly;
+font-size: 200%;
+
+}
+/*Contato*/
+
+#contato1{
+    margin-top: 100px;
+    font-size: 50px;
+}
+#contato2{
+    margin-top: 80px;
+    font-size: 50px; 
+}
+#nossocontato{
+        font-weight: 600;
+}
+#sigaagente{
+    font-weight: 600;
+}
+
+#texto{
+    margin-left: 8%;
+}
+#telatoda{
+    display: flex;
+}
+#button1{
+    background-color: #DEE3DD;
+    border-radius: 30px;
+}
+
+#img{
+    margin-top: 100px;
+    margin-left: 80px;
+}
+/*Cadastro*/
+
+#texto2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 70px;
+    font-size: 50px; 
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+#button3{
+    background-color: black;
+   color: #DEE3DD;
+   border-radius: 4px;
+   padding: 5%;
+   height: 60px;
+    right: 1px;
+   text-align: center;
+ }
+
+
+#button2{ 
+
+    border-radius: 4px;
+    width: 500px;
+    height: 40px;
+    right: 1px;
+   text-align: center;
+ }
+ #button4{
+    
+   border-radius: 4px;
+   padding: 15%;
+   height: 40px;
+   right: 1px;
+  text-align: center;
+} 
+
+#pedido{
+    margin-top: 100px;
+    font-size: 50px;
+    margin-left: 80px;
+    
+}
+
+#pedido2{
+    margin-top: 100px;
+    font-size: 50px;
+    margin-left: 80px;
+}
+#seupedido{
+    font-weight: 600;
+}
+#endereco{
+    font-weight: 600;
+}
+#pedido3{
+display: flex;
+margin-top: 95px;
+    font-size: 50px;
+    margin-left: 80px;
+}
+#fazerpeido{
+    margin-left:80px ;
+}
+#espaco{
+    margin-left: 90px;
+}
+#fazerpedido{
+    background-color: black;
+   color: #DEE3DD;
+   border-radius: 10px;
+   width: 200px;
+   height: 50px;
+}
+
+
+
+    
